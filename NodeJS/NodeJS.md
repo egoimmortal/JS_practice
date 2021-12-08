@@ -20,4 +20,4 @@ Windows環境
 ```
 
 在Terminal輸入 node 檔案名稱，就可以執行該程式，通常預設使用index.js
-可以藉由輸入 node run test 來呼叫"scripts"的"test"的事情，如果將test的內容更改為 node index.js，那麼只要輸入node run test 就會執行index.js檔案了
+可以藉由輸入 npm run test 來呼叫"scripts"的"test"的事情，如果將test的內容更改為 node index.js，那麼只要輸入npm run test 就會執行index.js檔案了
