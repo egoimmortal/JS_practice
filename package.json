@@ -9,5 +9,8 @@
     "excel": "node .\\NodeJS\\createExcel.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.17.4"
+  }
 }
