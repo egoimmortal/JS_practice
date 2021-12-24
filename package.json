@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "node .\\NodeJS\\index.js",
-    "copy": "node .\\NodeJS\\copy.js",
-    "excel": "node .\\NodeJS\\createExcel.js"
+    "copy": "node .\\NodeJS\\copy\\copy.js",
+    "excel": "node .\\NodeJS\\excel\\createExcel.js"
   },
   "author": "",
   "license": "ISC",
