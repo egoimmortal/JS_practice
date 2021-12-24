@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node .\\NodeJS\\index.js",
+    "copy": "node .\\NodeJS\\copy.js",
+    "excel": "node .\\NodeJS\\createExcel.js"
   },
   "author": "",
   "license": "ISC"
