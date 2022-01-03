@@ -1,4 +1,4 @@
-#個人git+js(ts)練習
+#個人練習
 
 ## JS_practice
 > 編輯Time.ts
