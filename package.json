@@ -6,7 +6,8 @@
   "scripts": {
     "test": "node .\\NodeJS\\index.js",
     "copy": "node .\\NodeJS\\copy\\copy.js",
-    "excel": "node .\\NodeJS\\excel\\createExcel.js"
+    "excel": "node .\\NodeJS\\excel\\createExcel.js",
+    "elevator": "node .\\elevator\\main.js"
   },
   "author": "",
   "license": "ISC",
